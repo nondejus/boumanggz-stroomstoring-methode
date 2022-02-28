@@ -1,2 +1,14 @@
 # boumanggz-dwang-stroomstoringen-methode
-voltage gated ion channels
+
+
+# bouman ggz
+https://nl.wikipedia.org/wiki/Bouman_GGZ
+
+# psychiater
+https://nl.wikipedia.org/wiki/Psychiater
+
+# kortsluiting
+https://nl.wikipedia.org/wiki/Kortsluiting
+
+# voltage-gated ion channel
+https://en.wikipedia.org/wiki/Voltage-gated_ion_channel
